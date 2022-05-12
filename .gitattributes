@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Sci-Fi[[:space:]]Texture[[:space:]]Pack[[:space:]]1/Textures/Texture_2_Diffuse.psd filter=lfs diff=lfs merge=lfs -text
