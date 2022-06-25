@@ -1,0 +1,46 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+1) I've completed this statement by myself entirely.
+
+
+//	Place your attributions below:
+//
+//	(All of the below are also in their respective scripts)
+//
+//	Movement With A Joystick
+//	https://www.youtube.com/watch?v=QREKO1sf8b8 
+//	
+//	Animation States:
+//	https://learn.unity.com/tutorial/controlling-animation#5c7f8528edbc2a002053b4e2
+//	
+//	State Machines:
+//	https://unity3d.college/2019/04/28/unity3d-ai-with-state-machine-drones-and-lasers/
+//	
+//	Checking if enemy is visible:
+//	https://answers.unity.com/questions/720447/if-game-object-is-in-cameras-field-of-view.html
+//  
+//	Random Number Generator:
+//	https://stackoverflow.com/questions/767999/random-number-generator-only-generating-one-random-number/768001#768001
+//	
+//
+//	ASSETS
+//
+//	Alien Ships by Autarca
+//	https://assetstore.unity.com/packages/3d/vehicles/space/alien-ships-pack-131137
+//
+//	Extreme Sci-fi LITE by Aquarius Max
+//	https://assetstore.unity.com/packages/3d/environments/sci-fi/extreme-sci-fi-lite-50727
+//
+//	Sci-fi Futuristic Handgun by Mobility Arts
+//	https://assetstore.unity.com/packages/3d/props/guns/sci-fi-futuristic-hand-gun-90249
+//
+//	Polygonal Metalon by Meshtint Studio
+//	https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383
+//
+//	RTS Sci-fi Game Assets v1 by Dmitrii Kutsenko
+//	https://assetstore.unity.com/packages/3d/environments/sci-fi/rts-sci-fi-game-assets-v1-112251
+//
+//	Sci-fi Texture Pack 1 by Firebolt Studios
+//	https://assetstore.unity.com/packages/2d/textures-materials/sci-fi-texture-pack-1-23301
+
+
