@@ -9,7 +9,7 @@ This project was created in Unity 2018.4.16. All assets used are imported from t
 To play this game, use any VR headset with a gamepad.
 
 Controls needed are:
-Left Stick - Lateral Movement
-Right Stick - Vertical Movement
-Right Shoulder - Laser Pointer
-Right Trigger - Shoot Bullet
+- Left Stick - Lateral Movement
+- Right Stick - Vertical Movement
+- Right Shoulder - Laser Pointer
+- Right Trigger - Shoot Bullet
