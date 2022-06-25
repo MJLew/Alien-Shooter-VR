@@ -1,4 +1,4 @@
-This project was developed by Michael Lew for the RTA 828 - Video Game Design course.
+This project was developed by Michael Lew for the CPS 643 - Virtual Reality course.
 
 Simple demo videos showcasing the gameplay can be found here:
 - Boss Fight https://youtu.be/EDDJXA6pYrg
