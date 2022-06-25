@@ -1,0 +1,5 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+
+Assets/Sci-Fi Texture Pack 1/Textures/Texture_2_Diffuse.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Sci-Fi Texture Pack 1/Textures/Texture_3_Diffuse.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Sci-Fi Texture Pack 1/Textures/Texture_1_Diffuse.psd filter=lfs diff=lfs merge=lfs -text
